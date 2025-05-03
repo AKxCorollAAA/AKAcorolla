@@ -1,6 +1,7 @@
-# 💻 Olá, eu sou Hugo MAnoel, mas adotei o vulgo de corolla por gostar de conta de carros e o nome nos jogos!
+# 💻 Olá, eu sou Hugo Manoel!
 
 Bem-vindo ao meu perfil no GitHub! 🚀 Aqui estou começando minha jornada no mundo da programação e compartilhando meus primeiros projetos, estou bastante ansioso para aprender sobre tudo.
+obs: adotei o vulgo de corolla por gostar de carros e o nome nos jogos de fps
 
 ## 🔎 Sobre mim
 - 🎓 Atualmente estou aprendendo **Git e GitHub**.
